@@ -20,7 +20,7 @@ To realize our vision, we are pioneering the next generation of privacy preservi
 
 ## Aztec 3
 
-What is Aztec 3?
+What is Aztec 3.0?
 
 First, some context. A public blockchain utilizes a peer-to-peer network and a consensus protocol to establish the correct record of events, and records this on a shared ledger. Nodes are penalized for lying, and correctness is enforced by other nodes "checking" the work of the current node as the data is public. Ethereum is an example of this, specifically an example that enables the processing of transactions with arbitrary, Turing complete computation.
 
